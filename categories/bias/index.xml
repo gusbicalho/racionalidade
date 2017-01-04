@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bias on Racionalidade</title>
+    <title>bias on Racionalidade</title>
     <link>http://gusbicalho.github.io/racionalidade/categories/bias/index.xml</link>
-    <description>Recent content in Bias on Racionalidade</description>
+    <description>Recent content in bias on Racionalidade</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
     <atom:link href="http://gusbicalho.github.io/racionalidade/categories/bias/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
