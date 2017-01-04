@@ -1,0 +1,10 @@
+---
+contentDir: "content"
+layoutDir: "layouts"
+publishDir: "public"
+indexes:
+  category: "categories"
+baseURL: "http://gusbicalho.github.io/racionalidade/"
+title: "Racionalidade"
+canonifyURLs: true
+...
