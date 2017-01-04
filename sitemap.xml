@@ -2,35 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://gusbicalho.github.io/racionalidade/posts/orange-juice/</loc>
+    <loc>https://gusbicalho.github.io/racionalidade/blog/orange-juice/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gusbicalho.github.io/racionalidade/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://gusbicalho.github.io/racionalidade/posts/</loc>
+    <loc>https://gusbicalho.github.io/racionalidade/blog/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gusbicalho.github.io/racionalidade/</loc>
+    <loc>https://gusbicalho.github.io/racionalidade/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gusbicalho.github.io/racionalidade/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gusbicalho.github.io/racionalidade/categories/bias/</loc>
+    <loc>https://gusbicalho.github.io/racionalidade/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gusbicalho.github.io/racionalidade/categories/racionaliza%C3%A7%C3%A3o/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gusbicalho.github.io/racionalidade/categories/racionaliza%C3%A7%C3%A3o/</loc>
+    <loc>https://gusbicalho.github.io/racionalidade/categories/vi%C3%A9s/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

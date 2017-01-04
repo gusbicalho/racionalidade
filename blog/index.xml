@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>racionalização on Racionalidade</title>
-    <link>https://gusbicalho.github.io/racionalidade/categories/racionaliza%C3%A7%C3%A3o/index.xml</link>
-    <description>Recent content in racionalização on Racionalidade</description>
+    <title>Blogs on Racionalidade</title>
+    <link>https://gusbicalho.github.io/racionalidade/blog/index.xml</link>
+    <description>Recent content in Blogs on Racionalidade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <atom:link href="https://gusbicalho.github.io/racionalidade/categories/racionaliza%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gusbicalho.github.io/racionalidade/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Não racionalize o suco de laranja!</title>
